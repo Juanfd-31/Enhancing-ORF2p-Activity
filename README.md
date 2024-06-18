@@ -2,7 +2,7 @@
 
 In this repository you can find the main scripts used in "Enhancing LINE-1 Activity Through Bioprospecting and Directed Evolution" divided in sections.
 
-	- [L1 Bioprospecting ](L1 Bioprospecting)
-	- Variant Prediction
-	- Inferred Activity
+[L1 Bioprospecting ](L1 Bioprospecting/)
+[Variant Prediction](Variant Prediction/)
+[Ancestral Sequence Reconstruction](Ancestral Sequence Reconstruction/)
 	
